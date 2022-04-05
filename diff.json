@@ -1,0 +1,684 @@
+{
+    "values_changed": {
+        "root['1']['Streams(millions)']": {
+            "new_value": 3089000000,
+            "old_value": 3082000000
+        },
+        "root['2']['Streams(millions)']": {
+            "new_value": 2880000000,
+            "old_value": 2866000000
+        },
+        "root['3']['Streams(millions)']": {
+            "new_value": 2524000000,
+            "old_value": 2518000000
+        },
+        "root['4']['Streams(millions)']": {
+            "new_value": 2389000000,
+            "old_value": 2383000000
+        },
+        "root['5']['Streams(millions)']": {
+            "new_value": 2305000000,
+            "old_value": 2297000000
+        },
+        "root['6']['Streams(millions)']": {
+            "new_value": 2271000000,
+            "old_value": 2264000000
+        },
+        "root['7']['Streams(millions)']": {
+            "new_value": 2248000000,
+            "old_value": 2241000000
+        },
+        "root['8']['Streams(millions)']": {
+            "new_value": 2245000000,
+            "old_value": 2237000000
+        },
+        "root['9']['Streams(millions)']": {
+            "new_value": 2099000000,
+            "old_value": 2093000000
+        },
+        "root['10']['Streams(millions)']": {
+            "new_value": 2036000000,
+            "old_value": 2028000000
+        },
+        "root['11']['Streams(millions)']": {
+            "new_value": 2018000000,
+            "old_value": 2012000000
+        },
+        "root['12']['Streams(millions)']": {
+            "new_value": 2017000000,
+            "old_value": 2011000000
+        },
+        "root['13']['Streams(millions)']": {
+            "new_value": 1987000000,
+            "old_value": 1981000000
+        },
+        "root['14']['Streams(millions)']": {
+            "new_value": 1967000000,
+            "old_value": 1963000000
+        },
+        "root['15']['Streams(millions)']": {
+            "new_value": 1918000000,
+            "old_value": 1912000000
+        },
+        "root['16']['Streams(millions)']": {
+            "new_value": 1915000000,
+            "old_value": 1910000000
+        },
+        "root['17']['Streams(millions)']": {
+            "new_value": 1847000000,
+            "old_value": 1839000000
+        },
+        "root['18']['Streams(millions)']": {
+            "new_value": 1830000000,
+            "old_value": 1824000000
+        },
+        "root['19']['Streams(millions)']": {
+            "new_value": 1799000000,
+            "old_value": 1793000000
+        },
+        "root['20']['Streams(millions)']": {
+            "new_value": 1791000000,
+            "old_value": 1785000000
+        },
+        "root['21']['Streams(millions)']": {
+            "new_value": 1776000000,
+            "old_value": 1769000000
+        },
+        "root['22']['Streams(millions)']": {
+            "new_value": 1764000000,
+            "old_value": 1758000000
+        },
+        "root['23']['Streams(millions)']": {
+            "new_value": 1763000000,
+            "old_value": 1756000000
+        },
+        "root['24']['Streams(millions)']": {
+            "new_value": 1759000000,
+            "old_value": 1753000000
+        },
+        "root['25']['Streams(millions)']": {
+            "new_value": 1744000000,
+            "old_value": 1735000000
+        },
+        "root['26']['Streams(millions)']": {
+            "new_value": 1730000000,
+            "old_value": 1727000000
+        },
+        "root['27']['Streams(millions)']": {
+            "new_value": 1727000000,
+            "old_value": 1721000000
+        },
+        "root['28']['Streams(millions)']": {
+            "new_value": 1695000000,
+            "old_value": 1690000000
+        },
+        "root['29']['Streams(millions)']": {
+            "new_value": 1694000000,
+            "old_value": 1690000000
+        },
+        "root['30']['Streams(millions)']": {
+            "new_value": 1694000000,
+            "old_value": 1688000000
+        },
+        "root['31']['Streams(millions)']": {
+            "new_value": 1694000000,
+            "old_value": 1688000000
+        },
+        "root['32']['Streams(millions)']": {
+            "new_value": 1691000000,
+            "old_value": 1685000000
+        },
+        "root['33']['Streams(millions)']": {
+            "new_value": 1684000000,
+            "old_value": 1678000000
+        },
+        "root['34']['Streams(millions)']": {
+            "new_value": 1679000000,
+            "old_value": 1669000000
+        },
+        "root['35']['Streams(millions)']": {
+            "new_value": 1664000000,
+            "old_value": 1659000000
+        },
+        "root['36']['Streams(millions)']": {
+            "new_value": 1658000000,
+            "old_value": 1654000000
+        },
+        "root['36']['Date published']": {
+            "new_value": "2 June 2017",
+            "old_value": "2 June 2017|"
+        },
+        "root['37']['Streams(millions)']": {
+            "new_value": 1655000000,
+            "old_value": 1631000000
+        },
+        "root['38']['Streams(millions)']": {
+            "new_value": 1628000000,
+            "old_value": 1624000000
+        },
+        "root['39']['Streams(millions)']": {
+            "new_value": 1626000000,
+            "old_value": 1620000000
+        },
+        "root['40']['Streams(millions)']": {
+            "new_value": 1621000000,
+            "old_value": 1617000000
+        },
+        "root['41']['Song']": {
+            "new_value": "Humble",
+            "old_value": "Lean On"
+        },
+        "root['41']['Streams(millions)']": {
+            "new_value": 1599000000,
+            "old_value": 1595000000
+        },
+        "root['41']['Artist(s)']": {
+            "new_value": "Kendrick Lamar",
+            "old_value": "Major Lazer and DJ Snake featuring M\u00c3\u02dc"
+        },
+        "root['41']['Date published']": {
+            "new_value": "30 March 2017",
+            "old_value": "2 March 2015"
+        },
+        "root['42']['Song']": {
+            "new_value": "Lean On",
+            "old_value": "Humble"
+        },
+        "root['42']['Streams(millions)']": {
+            "new_value": 1598000000,
+            "old_value": 1594000000
+        },
+        "root['42']['Artist(s)']": {
+            "new_value": "Major Lazer and DJ Snake featuring M\u00c3\u02dc",
+            "old_value": "Kendrick Lamar"
+        },
+        "root['42']['Date published']": {
+            "new_value": "2 March 2015",
+            "old_value": "30 March 2017"
+        },
+        "root['43']['Streams(millions)']": {
+            "new_value": 1596000000,
+            "old_value": 1593000000
+        },
+        "root['44']['Streams(millions)']": {
+            "new_value": 1572000000,
+            "old_value": 1566000000
+        },
+        "root['45']['Streams(millions)']": {
+            "new_value": 1562000000,
+            "old_value": 1558000000
+        },
+        "root['46']['Streams(millions)']": {
+            "new_value": 1553000000,
+            "old_value": 1548000000
+        },
+        "root['47']['Streams(millions)']": {
+            "new_value": 1547000000,
+            "old_value": 1542000000
+        },
+        "root['48']['Streams(millions)']": {
+            "new_value": 1543000000,
+            "old_value": 1539000000
+        },
+        "root['49']['Streams(millions)']": {
+            "new_value": 1538000000,
+            "old_value": 1534000000
+        },
+        "root['50']['Streams(millions)']": {
+            "new_value": 1537000000,
+            "old_value": 1531000000
+        },
+        "root['51']['Streams(millions)']": {
+            "new_value": 1533000000,
+            "old_value": 1529000000
+        },
+        "root['52']['Streams(millions)']": {
+            "new_value": 1523000000,
+            "old_value": 1521000000
+        },
+        "root['53']['Streams(millions)']": {
+            "new_value": 1517000000,
+            "old_value": 1513000000
+        },
+        "root['54']['Streams(millions)']": {
+            "new_value": 1516000000,
+            "old_value": 1509000000
+        },
+        "root['55']['Streams(millions)']": {
+            "new_value": 1506000000,
+            "old_value": 1502000000
+        },
+        "root['56']['Streams(millions)']": {
+            "new_value": 1501000000,
+            "old_value": 1497000000
+        },
+        "root['57']['Streams(millions)']": {
+            "new_value": 1500000000,
+            "old_value": 1495000000
+        },
+        "root['58']['Streams(millions)']": {
+            "new_value": 1486000000,
+            "old_value": 1483000000
+        },
+        "root['59']['Streams(millions)']": {
+            "new_value": 1485000000,
+            "old_value": 1478000000
+        },
+        "root['60']['Streams(millions)']": {
+            "new_value": 1482000000,
+            "old_value": 1477000000
+        },
+        "root['61']['Streams(millions)']": {
+            "new_value": 1479000000,
+            "old_value": 1475000000
+        },
+        "root['62']['Streams(millions)']": {
+            "new_value": 1470000000,
+            "old_value": 1465000000
+        },
+        "root['63']['Streams(millions)']": {
+            "new_value": 1469000000,
+            "old_value": 1463000000
+        },
+        "root['64']['Streams(millions)']": {
+            "new_value": 1455000000,
+            "old_value": 1451000000
+        },
+        "root['65']['Streams(millions)']": {
+            "new_value": 1441000000,
+            "old_value": 1436000000
+        },
+        "root['66']['Streams(millions)']": {
+            "new_value": 1437000000,
+            "old_value": 1434000000
+        },
+        "root['67']['Streams(millions)']": {
+            "new_value": 1431000000,
+            "old_value": 1426000000
+        },
+        "root['68']['Song']": {
+            "new_value": "Heat Waves",
+            "old_value": "Memories"
+        },
+        "root['68']['Streams(millions)']": {
+            "new_value": 1427000000,
+            "old_value": 1419000000
+        },
+        "root['68']['Artist(s)']": {
+            "new_value": "Glass Animals",
+            "old_value": "Maroon 5"
+        },
+        "root['68']['Date published']": {
+            "new_value": "29 June 2020",
+            "old_value": "20 September 2019"
+        },
+        "root['69']['Song']": {
+            "new_value": "Memories",
+            "old_value": "Moonlight"
+        },
+        "root['69']['Streams(millions)']": {
+            "new_value": 1425000000,
+            "old_value": 1416000000
+        },
+        "root['69']['Artist(s)']": {
+            "new_value": "Maroon 5",
+            "old_value": "XXXTentacion"
+        },
+        "root['69']['Date published']": {
+            "new_value": "20 September 2019",
+            "old_value": "16 March 2018"
+        },
+        "root['70']['Streams(millions)']": {
+            "new_value": 1421000000,
+            "old_value": 1415000000
+        },
+        "root['71']['Song']": {
+            "new_value": "Moonlight",
+            "old_value": "Cheap Thrills"
+        },
+        "root['71']['Streams(millions)']": {
+            "new_value": 1421000000,
+            "old_value": 1408000000
+        },
+        "root['71']['Artist(s)']": {
+            "new_value": "XXXTentacion",
+            "old_value": "Sia"
+        },
+        "root['71']['Date published']": {
+            "new_value": "16 March 2018",
+            "old_value": "29 January 2016"
+        },
+        "root['72']['Song']": {
+            "new_value": "Cheap Thrills",
+            "old_value": "Girls Like You"
+        },
+        "root['72']['Streams(millions)']": {
+            "new_value": 1411000000,
+            "old_value": 1401000000
+        },
+        "root['72']['Artist(s)']": {
+            "new_value": "Sia",
+            "old_value": "Maroon 5 featuring Cardi B"
+        },
+        "root['72']['Date published']": {
+            "new_value": "29 January 2016",
+            "old_value": "30 May 2018"
+        },
+        "root['73']['Song']": {
+            "new_value": "Girls Like You",
+            "old_value": "Heat Waves"
+        },
+        "root['73']['Streams(millions)']": {
+            "new_value": 1404000000,
+            "old_value": 1396000000
+        },
+        "root['73']['Artist(s)']": {
+            "new_value": "Maroon 5 featuring Cardi B",
+            "old_value": "Glass Animals"
+        },
+        "root['73']['Date published']": {
+            "new_value": "30 May 2018",
+            "old_value": "29 June 2020"
+        },
+        "root['74']['Song']": {
+            "new_value": "Sweater Weather",
+            "old_value": "Demons"
+        },
+        "root['74']['Streams(millions)']": {
+            "new_value": 1393000000,
+            "old_value": 1383000000
+        },
+        "root['74']['Artist(s)']": {
+            "new_value": "The Neighbourhood",
+            "old_value": "Imagine Dragons"
+        },
+        "root['74']['Date published']": {
+            "new_value": "28 March 2012",
+            "old_value": "4 September 2012"
+        },
+        "root['75']['Song']": {
+            "new_value": "Demons",
+            "old_value": "Sweater Weather"
+        },
+        "root['75']['Streams(millions)']": {
+            "new_value": 1389000000,
+            "old_value": 1380000000
+        },
+        "root['75']['Artist(s)']": {
+            "new_value": "Imagine Dragons",
+            "old_value": "The Neighbourhood"
+        },
+        "root['75']['Date published']": {
+            "new_value": "4 September 2012",
+            "old_value": "28 March 2012"
+        },
+        "root['76']['Streams(millions)']": {
+            "new_value": 1382000000,
+            "old_value": 1377000000
+        },
+        "root['77']['Streams(millions)']": {
+            "new_value": 1380000000,
+            "old_value": 1374000000
+        },
+        "root['78']['Streams(millions)']": {
+            "new_value": 1375000000,
+            "old_value": 1372000000
+        },
+        "root['79']['Streams(millions)']": {
+            "new_value": 1372000000,
+            "old_value": 1368000000
+        },
+        "root['80']['Streams(millions)']": {
+            "new_value": 1370000000,
+            "old_value": 1366000000
+        },
+        "root['81']['Song']": {
+            "new_value": "Drivers License",
+            "old_value": "I Like Me Better"
+        },
+        "root['81']['Streams(millions)']": {
+            "new_value": 1364000000,
+            "old_value": 1358000000
+        },
+        "root['81']['Artist(s)']": {
+            "new_value": "Olivia Rodrigo",
+            "old_value": "Lauv"
+        },
+        "root['81']['Date published']": {
+            "new_value": "8 January 2021",
+            "old_value": "19 May 2017"
+        },
+        "root['82']['Streams(millions)']": {
+            "new_value": 1363000000,
+            "old_value": 1358000000
+        },
+        "root['83']['Song']": {
+            "new_value": "I Like Me Better",
+            "old_value": "See You Again"
+        },
+        "root['83']['Streams(millions)']": {
+            "new_value": 1362000000,
+            "old_value": 1357000000
+        },
+        "root['83']['Artist(s)']": {
+            "new_value": "Lauv",
+            "old_value": "Wiz Khalifa featuring Charlie Puth"
+        },
+        "root['83']['Date published']": {
+            "new_value": "19 May 2017",
+            "old_value": "10 March 2015"
+        },
+        "root['84']['Song']": {
+            "new_value": "See You Again",
+            "old_value": "Lose Yourself"
+        },
+        "root['84']['Streams(millions)']": {
+            "new_value": 1361000000,
+            "old_value": 1353000000
+        },
+        "root['84']['Artist(s)']": {
+            "new_value": "Wiz Khalifa featuring Charlie Puth",
+            "old_value": "Eminem"
+        },
+        "root['84']['Date published']": {
+            "new_value": "10 March 2015",
+            "old_value": "28 October 2002"
+        },
+        "root['85']['Song']": {
+            "new_value": "Lose Yourself",
+            "old_value": "Drivers License"
+        },
+        "root['85']['Streams(millions)']": {
+            "new_value": 1361000000,
+            "old_value": 1353000000
+        },
+        "root['85']['Artist(s)']": {
+            "new_value": "Eminem",
+            "old_value": "Olivia Rodrigo"
+        },
+        "root['85']['Date published']": {
+            "new_value": "28 October 2002",
+            "old_value": "8 January 2021"
+        },
+        "root['86']['Streams(millions)']": {
+            "new_value": 1351000000,
+            "old_value": 1348000000
+        },
+        "root['87']['Song']": {
+            "new_value": "Good 4 U",
+            "old_value": "Can't Stop the Feeling!"
+        },
+        "root['87']['Streams(millions)']": {
+            "new_value": 1349000000,
+            "old_value": 1346000000
+        },
+        "root['87']['Artist(s)']": {
+            "new_value": "Olivia Rodrigo",
+            "old_value": "Justin Timberlake (on the soundtrack of Trolls)"
+        },
+        "root['87']['Date published']": {
+            "new_value": "14 May 2021",
+            "old_value": "6 May 2016"
+        },
+        "root['88']['Song']": {
+            "new_value": "Can't Stop the Feeling!",
+            "old_value": "Youngblood"
+        },
+        "root['88']['Streams(millions)']": {
+            "new_value": 1349000000,
+            "old_value": 1337000000
+        },
+        "root['88']['Artist(s)']": {
+            "new_value": "Justin Timberlake (on the soundtrack of Trolls)",
+            "old_value": "5 Seconds Of Summer"
+        },
+        "root['88']['Date published']": {
+            "new_value": "6 May 2016",
+            "old_value": "12 April 2018"
+        },
+        "root['89']['Song']": {
+            "new_value": "Montero (Call Me by Your Name)",
+            "old_value": "One Kiss"
+        },
+        "root['89']['Streams(millions)']": {
+            "new_value": 1346000000,
+            "old_value": 1336000000
+        },
+        "root['89']['Artist(s)']": {
+            "new_value": "Lil Nas X",
+            "old_value": "Calvin Harris and Dua Lipa"
+        },
+        "root['89']['Date published']": {
+            "new_value": "26 March 2021",
+            "old_value": "6 April 2018"
+        },
+        "root['90']['Song']": {
+            "new_value": "Youngblood",
+            "old_value": "Montero (Call Me by Your Name)"
+        },
+        "root['90']['Streams(millions)']": {
+            "new_value": 1341000000,
+            "old_value": 1338000000
+        },
+        "root['90']['Artist(s)']": {
+            "new_value": "5 Seconds Of Summer",
+            "old_value": "Lil Nas X"
+        },
+        "root['90']['Date published']": {
+            "new_value": "12 April 2018",
+            "old_value": "26 March 2021"
+        },
+        "root['91']['Song']": {
+            "new_value": "One Kiss",
+            "old_value": "Heathens"
+        },
+        "root['91']['Streams(millions)']": {
+            "new_value": 1340000000,
+            "old_value": 1336000000
+        },
+        "root['91']['Artist(s)']": {
+            "new_value": "Calvin Harris and Dua Lipa",
+            "old_value": "Twenty One Pilots"
+        },
+        "root['91']['Date published']": {
+            "new_value": "6 April 2018",
+            "old_value": "16 June 2016"
+        },
+        "root['92']['Song']": {
+            "new_value": "Heathens",
+            "old_value": "I'm Yours"
+        },
+        "root['92']['Streams(millions)']": {
+            "new_value": 1340000000,
+            "old_value": 1332000000
+        },
+        "root['92']['Artist(s)']": {
+            "new_value": "Twenty One Pilots",
+            "old_value": "Jason Mraz"
+        },
+        "root['92']['Date published']": {
+            "new_value": "16 June 2016",
+            "old_value": "12 February 2008"
+        },
+        "root['93']['Song']": {
+            "new_value": "Dakiti",
+            "old_value": "Good 4 U"
+        },
+        "root['93']['Streams(millions)']": {
+            "new_value": 1338000000,
+            "old_value": 1333000000
+        },
+        "root['93']['Artist(s)']": {
+            "new_value": "Bad Bunny and Jhay Cortez",
+            "old_value": "Olivia Rodrigo"
+        },
+        "root['93']['Date published']": {
+            "new_value": "30 October 2020",
+            "old_value": "14 May 2021"
+        },
+        "root['94']['Song']": {
+            "new_value": "I'm Yours",
+            "old_value": "Dakiti"
+        },
+        "root['94']['Streams(millions)']": {
+            "new_value": 1336000000,
+            "old_value": 1328000000
+        },
+        "root['94']['Artist(s)']": {
+            "new_value": "Jason Mraz",
+            "old_value": "Bad Bunny and Jhay Cortez"
+        },
+        "root['94']['Date published']": {
+            "new_value": "12 February 2008",
+            "old_value": "30 October 2020"
+        },
+        "root['95']['Streams(millions)']": {
+            "new_value": 1330000000,
+            "old_value": 1328000000
+        },
+        "root['96']['Streams(millions)']": {
+            "new_value": 1330000000,
+            "old_value": 1325000000
+        },
+        "root['97']['Song']": {
+            "new_value": "When the Party's Over",
+            "old_value": "Radioactive"
+        },
+        "root['97']['Streams(millions)']": {
+            "new_value": 1313000000,
+            "old_value": 1309000000
+        },
+        "root['97']['Artist(s)']": {
+            "new_value": "Billie Eilish",
+            "old_value": "Imagine Dragons"
+        },
+        "root['97']['Date published']": {
+            "new_value": "16 October 2018",
+            "old_value": "4 September 2012"
+        },
+        "root['98']['Song']": {
+            "new_value": "Radioactive",
+            "old_value": "When the Party's Over"
+        },
+        "root['98']['Streams(millions)']": {
+            "new_value": 1312000000,
+            "old_value": 1308000000
+        },
+        "root['98']['Artist(s)']": {
+            "new_value": "Imagine Dragons",
+            "old_value": "Billie Eilish"
+        },
+        "root['98']['Date published']": {
+            "new_value": "4 September 2012",
+            "old_value": "16 October 2018"
+        },
+        "root['99']['Streams(millions)']": {
+            "new_value": 1307000000,
+            "old_value": 1300000000
+        },
+        "root['100']['Streams(millions)']": {
+            "new_value": 1302000000,
+            "old_value": 1298000000
+        }
+    }
+}

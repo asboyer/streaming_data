@@ -1,0 +1,602 @@
+{
+    "1": {
+        "Song": "Shape of You",
+        "Streams(millions)": 3082000000,
+        "Artist(s)": "Ed Sheeran",
+        "Date published": "30 January 2017"
+    },
+    "2": {
+        "Song": "Blinding Lights",
+        "Streams(millions)": 2866000000,
+        "Artist(s)": "The Weeknd",
+        "Date published": "29 November 2019"
+    },
+    "3": {
+        "Song": "Dance Monkey",
+        "Streams(millions)": 2518000000,
+        "Artist(s)": "Tones and I",
+        "Date published": "10 May 2019"
+    },
+    "4": {
+        "Song": "Rockstar",
+        "Streams(millions)": 2383000000,
+        "Artist(s)": "Post Malone featuring 21 Savage",
+        "Date published": "15 September 2017"
+    },
+    "5": {
+        "Song": "Someone You Loved",
+        "Streams(millions)": 2297000000,
+        "Artist(s)": "Lewis Capaldi",
+        "Date published": "8 November 2018"
+    },
+    "6": {
+        "Song": "One Dance",
+        "Streams(millions)": 2264000000,
+        "Artist(s)": "Drake featuring Wizkid and Kyla",
+        "Date published": "5 April 2016"
+    },
+    "7": {
+        "Song": "Closer",
+        "Streams(millions)": 2241000000,
+        "Artist(s)": "The Chainsmokers featuring Halsey",
+        "Date published": "29 July 2016"
+    },
+    "8": {
+        "Song": "Sunflower",
+        "Streams(millions)": 2237000000,
+        "Artist(s)": "Post Malone and Swae Lee",
+        "Date published": "18 October 2018"
+    },
+    "9": {
+        "Song": "Señorita",
+        "Streams(millions)": 2093000000,
+        "Artist(s)": "Shawn Mendes and Camila Cabello",
+        "Date published": "21 June 2019"
+    },
+    "10": {
+        "Song": "Believer",
+        "Streams(millions)": 2028000000,
+        "Artist(s)": "Imagine Dragons",
+        "Date published": "1 February 2017"
+    },
+    "11": {
+        "Song": "Perfect",
+        "Streams(millions)": 2012000000,
+        "Artist(s)": "Ed Sheeran",
+        "Date published": "3 March 2017"
+    },
+    "12": {
+        "Song": "Bad Guy",
+        "Streams(millions)": 2011000000,
+        "Artist(s)": "Billie Eilish",
+        "Date published": "29 March 2019"
+    },
+    "13": {
+        "Song": "Say You Won't Let Go",
+        "Streams(millions)": 1981000000,
+        "Artist(s)": "James Arthur",
+        "Date published": "9 September 2016"
+    },
+    "14": {
+        "Song": "Thinking Out Loud",
+        "Streams(millions)": 1963000000,
+        "Artist(s)": "Ed Sheeran",
+        "Date published": "20 June 2014"
+    },
+    "15": {
+        "Song": "Lucid Dreams",
+        "Streams(millions)": 1912000000,
+        "Artist(s)": "Juice WRLD",
+        "Date published": "4 May 2018"
+    },
+    "16": {
+        "Song": "God's Plan",
+        "Streams(millions)": 1910000000,
+        "Artist(s)": "Drake",
+        "Date published": "19 January 2018"
+    },
+    "17": {
+        "Song": "Don't Start Now",
+        "Streams(millions)": 1839000000,
+        "Artist(s)": "Dua Lipa",
+        "Date published": "1 November 2019"
+    },
+    "18": {
+        "Song": "Photograph",
+        "Streams(millions)": 1824000000,
+        "Artist(s)": "Ed Sheeran",
+        "Date published": "20 June 2014"
+    },
+    "19": {
+        "Song": "Sad!",
+        "Streams(millions)": 1793000000,
+        "Artist(s)": "XXXTentacion",
+        "Date published": "1 March 2018"
+    },
+    "20": {
+        "Song": "Starboy",
+        "Streams(millions)": 1785000000,
+        "Artist(s)": "The Weeknd featuring Daft Punk",
+        "Date published": "21 September 2016"
+    },
+    "21": {
+        "Song": "Something Just Like This",
+        "Streams(millions)": 1769000000,
+        "Artist(s)": "The Chainsmokers and Coldplay",
+        "Date published": "22 February 2017"
+    },
+    "22": {
+        "Song": "Shallow",
+        "Streams(millions)": 1758000000,
+        "Artist(s)": "Lady Gaga and Bradley Cooper",
+        "Date published": "27 September 2018"
+    },
+    "23": {
+        "Song": "Bohemian Rhapsody",
+        "Streams(millions)": 1756000000,
+        "Artist(s)": "Queen",
+        "Date published": "31 October 1975"
+    },
+    "24": {
+        "Song": "Love Yourself",
+        "Streams(millions)": 1753000000,
+        "Artist(s)": "Justin Bieber",
+        "Date published": "9 November 2015"
+    },
+    "25": {
+        "Song": "Lovely",
+        "Streams(millions)": 1735000000,
+        "Artist(s)": "Billie Eilish and Khalid",
+        "Date published": "19 April 2018"
+    },
+    "26": {
+        "Song": "Havana",
+        "Streams(millions)": 1727000000,
+        "Artist(s)": "Camila Cabello featuring Young Thug",
+        "Date published": "3 August 2017"
+    },
+    "27": {
+        "Song": "All of Me",
+        "Streams(millions)": 1721000000,
+        "Artist(s)": "John Legend",
+        "Date published": "12 August 2013"
+    },
+    "28": {
+        "Song": "Thunder",
+        "Streams(millions)": 1690000000,
+        "Artist(s)": "Imagine Dragons",
+        "Date published": "27 April 2017"
+    },
+    "29": {
+        "Song": "7 Rings",
+        "Streams(millions)": 1690000000,
+        "Artist(s)": "Ariana Grande",
+        "Date published": "18 January 2019"
+    },
+    "30": {
+        "Song": "Take Me to Church",
+        "Streams(millions)": 1688000000,
+        "Artist(s)": "Hozier",
+        "Date published": "13 September 2013"
+    },
+    "31": {
+        "Song": "Circles",
+        "Streams(millions)": 1688000000,
+        "Artist(s)": "Post Malone",
+        "Date published": "30 August 2019"
+    },
+    "32": {
+        "Song": "Jocelyn Flores",
+        "Streams(millions)": 1685000000,
+        "Artist(s)": "XXXTentacion",
+        "Date published": "25 August 2017"
+    },
+    "33": {
+        "Song": "Goosebumps",
+        "Streams(millions)": 1678000000,
+        "Artist(s)": "Travis Scott featuring Kendrick Lamar",
+        "Date published": "2 September 2016"
+    },
+    "34": {
+        "Song": "Watermelon Sugar",
+        "Streams(millions)": 1669000000,
+        "Artist(s)": "Harry Styles",
+        "Date published": "16 November 2019"
+    },
+    "35": {
+        "Song": "XO Tour Llif3",
+        "Streams(millions)": 1659000000,
+        "Artist(s)": "Lil Uzi Vert",
+        "Date published": "24 March 2017"
+    },
+    "36": {
+        "Song": "New Rules",
+        "Streams(millions)": 1654000000,
+        "Artist(s)": "Dua Lipa",
+        "Date published": "2 June 2017|"
+    },
+    "37": {
+        "Song": "Stay",
+        "Streams(millions)": 1631000000,
+        "Artist(s)": "The Kid Laroi and Justin Bieber",
+        "Date published": "9 July 2021"
+    },
+    "38": {
+        "Song": "Happier",
+        "Streams(millions)": 1624000000,
+        "Artist(s)": "Marshmello and Bastille",
+        "Date published": "17 August 2018"
+    },
+    "39": {
+        "Song": "Stressed Out",
+        "Streams(millions)": 1620000000,
+        "Artist(s)": "Twenty One Pilots",
+        "Date published": "28 April 2015"
+    },
+    "40": {
+        "Song": "Sicko Mode",
+        "Streams(millions)": 1617000000,
+        "Artist(s)": "Travis Scott featuring Drake",
+        "Date published": "3 August 2018"
+    },
+    "41": {
+        "Song": "Lean On",
+        "Streams(millions)": 1595000000,
+        "Artist(s)": "Major Lazer and DJ Snake featuring MØ",
+        "Date published": "2 March 2015"
+    },
+    "42": {
+        "Song": "Humble",
+        "Streams(millions)": 1594000000,
+        "Artist(s)": "Kendrick Lamar",
+        "Date published": "30 March 2017"
+    },
+    "43": {
+        "Song": "Sorry",
+        "Streams(millions)": 1593000000,
+        "Artist(s)": "Justin Bieber",
+        "Date published": "22 October 2015"
+    },
+    "44": {
+        "Song": "Let Her Go",
+        "Streams(millions)": 1566000000,
+        "Artist(s)": "Passenger",
+        "Date published": "24 February 2012"
+    },
+    "45": {
+        "Song": "Better Now",
+        "Streams(millions)": 1558000000,
+        "Artist(s)": "Post Malone",
+        "Date published": "27 April 2018"
+    },
+    "46": {
+        "Song": "Roses (Imanbek Remix)",
+        "Streams(millions)": 1548000000,
+        "Artist(s)": "Saint Jhn and Imanbek",
+        "Date published": "18 September 2019"
+    },
+    "47": {
+        "Song": "Let Me Love You",
+        "Streams(millions)": 1542000000,
+        "Artist(s)": "DJ Snake featuring Justin Bieber",
+        "Date published": "5 August 2016"
+    },
+    "48": {
+        "Song": "Faded",
+        "Streams(millions)": 1539000000,
+        "Artist(s)": "Alan Walker",
+        "Date published": "3 December 2015"
+    },
+    "49": {
+        "Song": "Don't Let Me Down",
+        "Streams(millions)": 1534000000,
+        "Artist(s)": "The Chainsmokers featuring Daya",
+        "Date published": "5 February 2016"
+    },
+    "50": {
+        "Song": "Wake Me Up",
+        "Streams(millions)": 1531000000,
+        "Artist(s)": "Avicii featuring Aloe Blacc",
+        "Date published": "17 June 2013"
+    },
+    "51": {
+        "Song": "Congratulations",
+        "Streams(millions)": 1529000000,
+        "Artist(s)": "Post Malone featuring Quavo",
+        "Date published": "4 November 2016"
+    },
+    "52": {
+        "Song": "Despacito (Remix)",
+        "Streams(millions)": 1521000000,
+        "Artist(s)": "Luis Fonsi and Daddy Yankee featuring Justin Bieber",
+        "Date published": "17 April 2017"
+    },
+    "53": {
+        "Song": "I Took a Pill in Ibiza (Seeb Remix)",
+        "Streams(millions)": 1513000000,
+        "Artist(s)": "Mike Posner and Seeb",
+        "Date published": "14 April 2015"
+    },
+    "54": {
+        "Song": "Counting Stars",
+        "Streams(millions)": 1509000000,
+        "Artist(s)": "OneRepublic",
+        "Date published": "25 March 2013"
+    },
+    "55": {
+        "Song": "Stay with Me",
+        "Streams(millions)": 1502000000,
+        "Artist(s)": "Sam Smith",
+        "Date published": "14 April 2014"
+    },
+    "56": {
+        "Song": "I Don't Care",
+        "Streams(millions)": 1497000000,
+        "Artist(s)": "Ed Sheeran and Justin Bieber",
+        "Date published": "10 May 2019"
+    },
+    "57": {
+        "Song": "Treat You Better",
+        "Streams(millions)": 1495000000,
+        "Artist(s)": "Shawn Mendes",
+        "Date published": "3 June 2016"
+    },
+    "58": {
+        "Song": "Thank U, Next",
+        "Streams(millions)": 1483000000,
+        "Artist(s)": "Ariana Grande",
+        "Date published": "3 November 2018"
+    },
+    "59": {
+        "Song": "Riptide",
+        "Streams(millions)": 1478000000,
+        "Artist(s)": "Vance Joy",
+        "Date published": "21 May 2013"
+    },
+    "60": {
+        "Song": "Without Me",
+        "Streams(millions)": 1477000000,
+        "Artist(s)": "Halsey",
+        "Date published": "4 October 2018"
+    },
+    "61": {
+        "Song": "Uptown Funk",
+        "Streams(millions)": 1475000000,
+        "Artist(s)": "Mark Ronson featuring Bruno Mars",
+        "Date published": "10 November 2014"
+    },
+    "62": {
+        "Song": "The Hills",
+        "Streams(millions)": 1465000000,
+        "Artist(s)": "The Weeknd",
+        "Date published": "27 May 2015"
+    },
+    "63": {
+        "Song": "Can't Hold Us",
+        "Streams(millions)": 1463000000,
+        "Artist(s)": "Macklemore & Ryan Lewis featuring Ray Dalton",
+        "Date published": "16 August 2011"
+    },
+    "64": {
+        "Song": "Too Good at Goodbyes",
+        "Streams(millions)": 1451000000,
+        "Artist(s)": "Sam Smith",
+        "Date published": "8 September 2017"
+    },
+    "65": {
+        "Song": "Unforgettable",
+        "Streams(millions)": 1436000000,
+        "Artist(s)": "French Montana featuring Swae Lee",
+        "Date published": "7 April 2017"
+    },
+    "66": {
+        "Song": "The Box",
+        "Streams(millions)": 1434000000,
+        "Artist(s)": "Roddy Ricch",
+        "Date published": "6 December 2019"
+    },
+    "67": {
+        "Song": "Stitches",
+        "Streams(millions)": 1426000000,
+        "Artist(s)": "Shawn Mendes",
+        "Date published": "14 April 2015"
+    },
+    "68": {
+        "Song": "Memories",
+        "Streams(millions)": 1419000000,
+        "Artist(s)": "Maroon 5",
+        "Date published": "20 September 2019"
+    },
+    "69": {
+        "Song": "Moonlight",
+        "Streams(millions)": 1416000000,
+        "Artist(s)": "XXXTentacion",
+        "Date published": "16 March 2018"
+    },
+    "70": {
+        "Song": "Mood",
+        "Streams(millions)": 1415000000,
+        "Artist(s)": "24kGoldn featuring Iann Dior",
+        "Date published": "24 July 2020"
+    },
+    "71": {
+        "Song": "Cheap Thrills",
+        "Streams(millions)": 1408000000,
+        "Artist(s)": "Sia",
+        "Date published": "29 January 2016"
+    },
+    "72": {
+        "Song": "Girls Like You",
+        "Streams(millions)": 1401000000,
+        "Artist(s)": "Maroon 5 featuring Cardi B",
+        "Date published": "30 May 2018"
+    },
+    "73": {
+        "Song": "Heat Waves",
+        "Streams(millions)": 1396000000,
+        "Artist(s)": "Glass Animals",
+        "Date published": "29 June 2020"
+    },
+    "74": {
+        "Song": "Demons",
+        "Streams(millions)": 1383000000,
+        "Artist(s)": "Imagine Dragons",
+        "Date published": "4 September 2012"
+    },
+    "75": {
+        "Song": "Sweater Weather",
+        "Streams(millions)": 1380000000,
+        "Artist(s)": "The Neighbourhood",
+        "Date published": "28 March 2012"
+    },
+    "76": {
+        "Song": "That's What I Like",
+        "Streams(millions)": 1377000000,
+        "Artist(s)": "Bruno Mars",
+        "Date published": "18 November 2016"
+    },
+    "77": {
+        "Song": "Mr. Brightside",
+        "Streams(millions)": 1374000000,
+        "Artist(s)": "The Killers",
+        "Date published": "7 June 2004"
+    },
+    "78": {
+        "Song": "7 Years",
+        "Streams(millions)": 1372000000,
+        "Artist(s)": "Lukas Graham",
+        "Date published": "16 June 2015"
+    },
+    "79": {
+        "Song": "Rockstar",
+        "Streams(millions)": 1368000000,
+        "Artist(s)": "DaBaby featuring Roddy Ricch",
+        "Date published": "17 April 2020"
+    },
+    "80": {
+        "Song": "Despacito",
+        "Streams(millions)": 1366000000,
+        "Artist(s)": "Luis Fonsi featuring Daddy Yankee",
+        "Date published": "12 January 2017"
+    },
+    "81": {
+        "Song": "I Like Me Better",
+        "Streams(millions)": 1358000000,
+        "Artist(s)": "Lauv",
+        "Date published": "19 May 2017"
+    },
+    "82": {
+        "Song": "Wonderwall",
+        "Streams(millions)": 1358000000,
+        "Artist(s)": "Oasis",
+        "Date published": "30 October 1995"
+    },
+    "83": {
+        "Song": "See You Again",
+        "Streams(millions)": 1357000000,
+        "Artist(s)": "Wiz Khalifa featuring Charlie Puth",
+        "Date published": "10 March 2015"
+    },
+    "84": {
+        "Song": "Lose Yourself",
+        "Streams(millions)": 1353000000,
+        "Artist(s)": "Eminem",
+        "Date published": "28 October 2002"
+    },
+    "85": {
+        "Song": "Drivers License",
+        "Streams(millions)": 1353000000,
+        "Artist(s)": "Olivia Rodrigo",
+        "Date published": "8 January 2021"
+    },
+    "86": {
+        "Song": "I Like It",
+        "Streams(millions)": 1348000000,
+        "Artist(s)": "Cardi B, Bad Bunny and J Balvin",
+        "Date published": "6 April 2018"
+    },
+    "87": {
+        "Song": "Can't Stop the Feeling!",
+        "Streams(millions)": 1346000000,
+        "Artist(s)": "Justin Timberlake (on the soundtrack of Trolls)",
+        "Date published": "6 May 2016"
+    },
+    "88": {
+        "Song": "Youngblood",
+        "Streams(millions)": 1337000000,
+        "Artist(s)": "5 Seconds Of Summer",
+        "Date published": "12 April 2018"
+    },
+    "89": {
+        "Song": "One Kiss",
+        "Streams(millions)": 1336000000,
+        "Artist(s)": "Calvin Harris and Dua Lipa",
+        "Date published": "6 April 2018"
+    },
+    "90": {
+        "Song": "Montero (Call Me by Your Name)",
+        "Streams(millions)": 1338000000,
+        "Artist(s)": "Lil Nas X",
+        "Date published": "26 March 2021"
+    },
+    "91": {
+        "Song": "Heathens",
+        "Streams(millions)": 1336000000,
+        "Artist(s)": "Twenty One Pilots",
+        "Date published": "16 June 2016"
+    },
+    "92": {
+        "Song": "I'm Yours",
+        "Streams(millions)": 1332000000,
+        "Artist(s)": "Jason Mraz",
+        "Date published": "12 February 2008"
+    },
+    "93": {
+        "Song": "Good 4 U",
+        "Streams(millions)": 1333000000,
+        "Artist(s)": "Olivia Rodrigo",
+        "Date published": "14 May 2021"
+    },
+    "94": {
+        "Song": "Dakiti",
+        "Streams(millions)": 1328000000,
+        "Artist(s)": "Bad Bunny and Jhay Cortez",
+        "Date published": "30 October 2020"
+    },
+    "95": {
+        "Song": "I Fall Apart",
+        "Streams(millions)": 1328000000,
+        "Artist(s)": "Post Malone",
+        "Date published": "9 December 2016"
+    },
+    "96": {
+        "Song": "Sugar",
+        "Streams(millions)": 1325000000,
+        "Artist(s)": "Maroon 5",
+        "Date published": "29 August 2014"
+    },
+    "97": {
+        "Song": "Radioactive",
+        "Streams(millions)": 1309000000,
+        "Artist(s)": "Imagine Dragons",
+        "Date published": "4 September 2012"
+    },
+    "98": {
+        "Song": "When the Party's Over",
+        "Streams(millions)": 1308000000,
+        "Artist(s)": "Billie Eilish",
+        "Date published": "16 October 2018"
+    },
+    "99": {
+        "Song": "Dynamite",
+        "Streams(millions)": 1300000000,
+        "Artist(s)": "BTS",
+        "Date published": "21 August 2020"
+    },
+    "100": {
+        "Song": "Attention",
+        "Streams(millions)": 1298000000,
+        "Artist(s)": "Charlie Puth",
+        "Date published": "21 April 2017"
+    }
+}
